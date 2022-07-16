@@ -9,6 +9,8 @@ Interestingly, of these four words, three refer to God.
 El'ia means "only the Lord is God" and El'oi means "my God". 
 So, when you pronounce my name, you will be saying: My God, only the Lord is God.
 
+I've worked with Xenix, Unix and Windows servers; Firebird and Oracle database. Knowledge in Foxpro, Delphi, Shell script, PL/Sql, Java and Javascript.
+
 🌱 Actually I’m interested in learning Typescript, AWS.
 
 <div align="center">
