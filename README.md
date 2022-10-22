@@ -2,16 +2,12 @@
 
 Good to see you here.
 
-My name is Elias Eloy. 
-A curiosity about my name for you. 
-My name comes from Aramaic and is composed of four words: El'ia El'oi. 
-Interestingly, of these four words, three refer to God. 
-El'ia means "only the Lord is God" and El'oi means "my God". 
-So, when you pronounce my name, you will be saying: My God, only the Lord is God.
+My name is Elias Eloy.
 
-I've worked with Xenix, Unix and Windows servers; Firebird and Oracle database. Knowledge in Foxpro, Delphi, Shell script, PL/Sql, Java and Javascript.
+I've worked with Xenix, Unix and Windows servers; Firebird and Oracle database. Programming in Foxpro, Delphi, Shell script, PL/Sql, Java and Javascript.
+Knowledge in Typescript, Node and React  
 
-🌱 Actually I’m interested in learning Typescript, AWS.
+🌱 Actually I’m interested in learning Typescript, AWS, Docker and improving my english and italian.
 
 <div align="center">
   <a href="https://github.com/eliaseloy">
