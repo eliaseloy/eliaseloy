@@ -4,8 +4,8 @@ Good to see you here.
 
 My name is Elias Eloy.
 
-I've worked with Xenix, Unix and Windows servers; Firebird and Oracle database. Programming in Foxpro, Delphi, Shell script, PL/Sql, Java and Javascript.
-Knowledge in Typescript, Node and React  
+I've worked with Xenix, Unix, Linux and Windows servers; Firebird and Oracle database. Programming in Foxpro, Delphi, Shell script, PL/Sql, Java and Javascript.
+Knowledge in Typescript, Node and React, MySql, PostgreeSql and MondoDB.  
 
 🌱 Actually I’m interested in learning Typescript, AWS, Docker and improving my english and italian.
 
